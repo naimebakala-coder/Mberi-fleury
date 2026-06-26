@@ -1,0 +1,6 @@
+{
+  "name": "Cinéma Culture Parc Ndjindji",
+  "description": "Site officiel du cinéma Culture Parc Ndjindji à Pointe-Noire (République du Congo), avec gestion de séances, réservation de places en temps réel, tarifs et tableau de bord d'administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
